@@ -1,0 +1,31 @@
+.box-style {
+  color: blue;
+  font-size: large;
+}
+
+.outer {
+  border: 2px solid black;
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+h2{
+  text-align: center;
+  color: purple;
+}
+.iamgeDiv{
+  position: relative;
+  margin: 0 auto;
+  width: fit-content;
+}
+.buttonDiv{
+  width: fit-content;
+  margin: 0 auto;
+}
+.h2-1{
+  margin-bottom: 5px;
+}
+.h2-2 {
+  margin-top: 10px;
+}

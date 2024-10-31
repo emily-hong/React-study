@@ -1,0 +1,25 @@
+.wrapper {
+  margin: 8px;
+  padding: 8px;
+  display: flex;
+  border: 3px solid cadetblue;
+  border-radius: 16px;
+  width: 400px;
+}
+
+.writer {
+  font-weight: bold;
+  color: blueviolet;
+}
+.content {
+  margin-left: 8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+span {
+  color: black;
+  font-size: 16;
+  display: block;
+}

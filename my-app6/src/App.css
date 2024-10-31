@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+a {
+  padding: 30px;
+  font-size: 1.5em;
+}
+.active {
+  background-color: khaki;
+  border-radius: 65px;
+}
